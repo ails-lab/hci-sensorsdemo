@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sensors Demo</string>
+    <string name="no_sensor">Δεν εντοπίστηκε ο αισθητήρας</string>
+</resources>
